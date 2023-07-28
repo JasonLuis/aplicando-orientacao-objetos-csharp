@@ -1,0 +1,15 @@
+/home/jason/workspace/Alura/c#/aplicando-orientacao-objetos/desafios/exe02/lambda/bin/Debug/net7.0/lambda
+/home/jason/workspace/Alura/c#/aplicando-orientacao-objetos/desafios/exe02/lambda/bin/Debug/net7.0/lambda.deps.json
+/home/jason/workspace/Alura/c#/aplicando-orientacao-objetos/desafios/exe02/lambda/bin/Debug/net7.0/lambda.runtimeconfig.json
+/home/jason/workspace/Alura/c#/aplicando-orientacao-objetos/desafios/exe02/lambda/bin/Debug/net7.0/lambda.dll
+/home/jason/workspace/Alura/c#/aplicando-orientacao-objetos/desafios/exe02/lambda/bin/Debug/net7.0/lambda.pdb
+/home/jason/workspace/Alura/c#/aplicando-orientacao-objetos/desafios/exe02/lambda/obj/Debug/net7.0/lambda.csproj.AssemblyReference.cache
+/home/jason/workspace/Alura/c#/aplicando-orientacao-objetos/desafios/exe02/lambda/obj/Debug/net7.0/lambda.GeneratedMSBuildEditorConfig.editorconfig
+/home/jason/workspace/Alura/c#/aplicando-orientacao-objetos/desafios/exe02/lambda/obj/Debug/net7.0/lambda.AssemblyInfoInputs.cache
+/home/jason/workspace/Alura/c#/aplicando-orientacao-objetos/desafios/exe02/lambda/obj/Debug/net7.0/lambda.AssemblyInfo.cs
+/home/jason/workspace/Alura/c#/aplicando-orientacao-objetos/desafios/exe02/lambda/obj/Debug/net7.0/lambda.csproj.CoreCompileInputs.cache
+/home/jason/workspace/Alura/c#/aplicando-orientacao-objetos/desafios/exe02/lambda/obj/Debug/net7.0/lambda.dll
+/home/jason/workspace/Alura/c#/aplicando-orientacao-objetos/desafios/exe02/lambda/obj/Debug/net7.0/refint/lambda.dll
+/home/jason/workspace/Alura/c#/aplicando-orientacao-objetos/desafios/exe02/lambda/obj/Debug/net7.0/lambda.pdb
+/home/jason/workspace/Alura/c#/aplicando-orientacao-objetos/desafios/exe02/lambda/obj/Debug/net7.0/lambda.genruntimeconfig.cache
+/home/jason/workspace/Alura/c#/aplicando-orientacao-objetos/desafios/exe02/lambda/obj/Debug/net7.0/ref/lambda.dll

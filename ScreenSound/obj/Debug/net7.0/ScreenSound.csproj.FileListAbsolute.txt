@@ -1,0 +1,15 @@
+/home/jason/workspace/Alura/c#/aplicando-orientacao-objetos/ScreenSound/obj/Debug/net7.0/ScreenSound.csproj.AssemblyReference.cache
+/home/jason/workspace/Alura/c#/aplicando-orientacao-objetos/ScreenSound/obj/Debug/net7.0/ScreenSound.GeneratedMSBuildEditorConfig.editorconfig
+/home/jason/workspace/Alura/c#/aplicando-orientacao-objetos/ScreenSound/obj/Debug/net7.0/ScreenSound.AssemblyInfoInputs.cache
+/home/jason/workspace/Alura/c#/aplicando-orientacao-objetos/ScreenSound/obj/Debug/net7.0/ScreenSound.AssemblyInfo.cs
+/home/jason/workspace/Alura/c#/aplicando-orientacao-objetos/ScreenSound/obj/Debug/net7.0/ScreenSound.csproj.CoreCompileInputs.cache
+/home/jason/workspace/Alura/c#/aplicando-orientacao-objetos/ScreenSound/bin/Debug/net7.0/ScreenSound
+/home/jason/workspace/Alura/c#/aplicando-orientacao-objetos/ScreenSound/bin/Debug/net7.0/ScreenSound.deps.json
+/home/jason/workspace/Alura/c#/aplicando-orientacao-objetos/ScreenSound/bin/Debug/net7.0/ScreenSound.runtimeconfig.json
+/home/jason/workspace/Alura/c#/aplicando-orientacao-objetos/ScreenSound/bin/Debug/net7.0/ScreenSound.dll
+/home/jason/workspace/Alura/c#/aplicando-orientacao-objetos/ScreenSound/bin/Debug/net7.0/ScreenSound.pdb
+/home/jason/workspace/Alura/c#/aplicando-orientacao-objetos/ScreenSound/obj/Debug/net7.0/ScreenSound.dll
+/home/jason/workspace/Alura/c#/aplicando-orientacao-objetos/ScreenSound/obj/Debug/net7.0/refint/ScreenSound.dll
+/home/jason/workspace/Alura/c#/aplicando-orientacao-objetos/ScreenSound/obj/Debug/net7.0/ScreenSound.pdb
+/home/jason/workspace/Alura/c#/aplicando-orientacao-objetos/ScreenSound/obj/Debug/net7.0/ScreenSound.genruntimeconfig.cache
+/home/jason/workspace/Alura/c#/aplicando-orientacao-objetos/ScreenSound/obj/Debug/net7.0/ref/ScreenSound.dll
